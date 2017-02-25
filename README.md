@@ -1,7 +1,7 @@
 bulgarian-holidays.el
 =====================
 
-*Инструкции на български можете да намерите по-долу!*
+*Инструкции на **БЪЛГАРСКИ** можете да намерите по-долу!*
 
 This package defines the official public (non-working day) holidays
 in Bulgaria.  Also includes the most popular Bulgarian Orthodox
@@ -91,7 +91,7 @@ Enjoy,
 Освен българските наименования на празниците, в пакета е включен
 списък на същите наименования, но преведени на английски.
 
-Изходния код е базиран на адаптирана версия на `ukranian-holidays':
+Изходният код е базиран на адаптирана версия на `ukranian-holidays`':
   * https://www.emacswiki.org/emacs/ukrainian-holidays.el
 
 Използвани са следните източници:
@@ -129,6 +129,8 @@ https://github.com/dimitern/bulgarian-holidays.el
 
 Забележки, съобщения за проблеми/грешки и други са добре дошли!
 
-Надявам се, да съм бил полезен,
+Надявам се да намерите този пакет за полезен!
+
+Поздрави,
 
 -- Димитър
