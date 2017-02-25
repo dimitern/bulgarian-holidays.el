@@ -1,7 +1,7 @@
 bulgarian-holidays.el
 =====================
 
-*Инструкции на **БЪЛГАРСКИ** можете да намерите по-долу!*
+*Инструкции на _БЪЛГАРСКИ_ можете да намерите по-долу!*
 
 This package defines the official public (non-working day) holidays
 in Bulgaria.  Also includes the most popular Bulgarian Orthodox
@@ -15,8 +15,8 @@ start with a prefix (e.g. Easter or April Fool's Day).
 In addition to the original Bulgarian holiday names there is matching
 list of the same names translated to English.
 
-Source is based on an adapted version of `ukranian-holidays':
-https://www.emacswiki.org/emacs/ukrainian-holidays.el
+Source is based on an adapted version of `ukranian-holidays`:
+  * https://www.emacswiki.org/emacs/ukrainian-holidays.el
 
 Calendar sources:
   * http://xn--80aaldxhp0a.com/imeni-dni.html
@@ -91,7 +91,7 @@ Enjoy,
 Освен българските наименования на празниците, в пакета е включен
 списък на същите наименования, но преведени на английски.
 
-Изходният код е базиран на адаптирана версия на `ukranian-holidays`':
+Изходният код е базиран на адаптирана версия на `ukranian-holidays`:
   * https://www.emacswiki.org/emacs/ukrainian-holidays.el
 
 Използвани са следните източници:
@@ -104,7 +104,7 @@ Enjoy,
 Инсталиране
 -----------
 
-Изтеглете `bulgarian-holidays.el' от:
+Изтеглете `bulgarian-holidays.el` от:
 
 https://github.com/dimitern/bulgarian-holidays.el
 
